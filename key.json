@@ -44,6 +44,13 @@
       "isBanned": false,
       "banReason": "key",
       "userRank": "Supreme User"
+    },
+    "DPMods-75ULR6": {
+      "hwid": "2ADCF0771573E49A",
+      "expireDate": "Life",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
     }
   }
 }
